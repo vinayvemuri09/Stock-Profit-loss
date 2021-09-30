@@ -4,6 +4,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    
 }
 
 a {
@@ -11,7 +12,7 @@ a {
 }
 
 :root {
-    --primary-color: #93C5FD;
+    --primary-color: #56c99d;
 }
 
 .navigation {
