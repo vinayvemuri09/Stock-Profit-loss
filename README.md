@@ -13,4 +13,4 @@ User provides the initial price, current price and the number of stocks purchase
  * Vanilla JS
 
 
-[Live App](https://stock-profit-loss-vinayvemuri.netlify.app/"Live App")
+[Live App](https://stock-profit-loss-vinayvemuri.netlify.app/ "Live App")
